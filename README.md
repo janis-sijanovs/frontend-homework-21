@@ -1,9 +1,14 @@
-# Frontend Homework 18
+# Frontend Homework 20
 
-I have finished my eighteenth homework.
+I have finished my twenty first homework.
 
-I really enjoyed this one. Even though I once again did it at night and didn't sleep.
-I just feel a lot more productive at night.
-
-I'm still kind of confused about Redux, but it works, and that's the most important part.
-Could've improved the design, but I'll take a nap instead.
+This is my laziest homework so far.
+Didn't have time, didn't sleep. Did everything fast.
+The Redux works, which is the important part.
+Bonus task is done too.
+I did not care about styling whatsoever.
+File upload doesn't work, 
+as I don't know how to explain them to Typescript, 
+but instead of spending countless hours
+looking for solutions, maybe even learning some had habits, 
+I'll just listen to what the teacher will say in class.
